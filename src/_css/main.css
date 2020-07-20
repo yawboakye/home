@@ -116,7 +116,6 @@ body {
   font-size: 1rem;
   position: absolute;
   bottom: 0;
-  background: url(/_img/v8-outline.svg) no-repeat center center;
   background-size: 80%;
   width: 6.5em;
   height: 6.5em;
@@ -136,7 +135,6 @@ body {
   display: none;
 }
 #nav-toggle::after {
-  background: url(/_img/v8-outline.svg) no-repeat center center;
   content: '';
   width: 2em;
   height: 2em;
@@ -207,7 +205,6 @@ hr {
 }
 #footer {
   color: var(--footer-color);
-  background: var(--footer-background) url(/_img/v8-outline.svg) no-repeat 95.5% center;
   padding-right: 12em;
   background-size: 10em;
 }

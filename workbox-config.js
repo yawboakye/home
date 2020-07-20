@@ -15,7 +15,6 @@ module.exports = {
   globDirectory: 'dist/',
   globPatterns: [
     '**/*.{css,mjs}',
-    '_img/v8-outline.svg',
   ],
   swDest: 'dist/sw.js',
   swSrc: 'src/sw.js',
